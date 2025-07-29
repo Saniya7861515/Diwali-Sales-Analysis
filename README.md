@@ -1,6 +1,6 @@
 # Diwali-Sales-Analysis
 This project focuses on analyzing **Diwali sales data** using Python libraries like **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**. The goal is to extract valuable business insights such as customer behavior, top-selling products, and sales trends across demographics, states, and product categories.
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 - **Python**
   - Pandas
   - NumPy
@@ -20,7 +20,7 @@ The dataset contains sales data including customer information, product details,
 - Amount
 - Orders
 
-## 🔍 Data Cleaning Steps
+##  Data Cleaning Steps
 1. **Import Data:** Loaded dataset into Jupyter Notebook using Pandas.
 2. **Remove Nulls:** Dropped null values from `Status` and unnamed columns.
 3. **Handle Null in Amount:** Removed rows with null values in `Amount`.
